@@ -1,11 +1,11 @@
 # 📦 OptiPack: Packaging & Logistics Cost Optimization with Calculus
 *Calculus ile Koli & Lojistik Maliyet Optimizasyonu*
 
-[🇬🇧 English](#-english) | [🇹🇷 Türkçe](#-türkçe)
+[🇬🇧 English Version](#english) | [🇹🇷 Türkçe Versiyon](#turkce)
 
 ---
 
-## 🇬🇧 English
+## English
 
 OptiPack is an interactive analytical simulation tool designed to minimize packaging dimensions and logistics freight costs using **Multivariable Calculus** and **Constrained Optimization** techniques.
 
